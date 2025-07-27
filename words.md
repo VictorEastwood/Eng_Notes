@@ -1,6 +1,13 @@
 # 📚 雅思英语备考词汇积累
 
-## 🔀 乱序高频词汇
+## 阅读高频常用词汇
+| 单词         | 类型       | 中文释义          | 发音（音标）       | 例句+翻译    | 记忆技巧              |
+|--------------|------------|-------------------|--------------------|----------------------------------|-----------------------|
+| intensity | n. | 强度；强烈 | /ɪnˈtensəti/        | The intensity of the storm caused widespread damage. 风暴的强度造成了广泛的破坏。 | intens(加强)+ity(状态)→加强的状态 |
+| despite | prep. | 尽管；不管 | /dɪˈspaɪt/          | Despite the rain, the event continued as planned. 尽管下雨，活动仍按计划进行。 | de(去掉)+spite(怨恨)→去掉怨恨→不管 |
+| abundant | adj. | 丰富的；充足的 | /əˈbʌndənt/         | The region is known for its abundant natural resources. 该地区以其丰富的自然资源而闻名。 | ab(离开)+und(波浪)+ant(的)→离开波浪的地方→丰富的 |
+| provided
+##  乱序托福词汇
 | 单词         | 类型       | 中文释义          | 发音（音标）       | 例句+翻译    | 记忆技巧              |
 |--------------|------------|-------------------|--------------------|----------------------------------|-----------------------|
 | ubiquitous   | adj.| 无处不在的   | /juːˈbɪkwɪtəs/    | Smartphones have become ubiquitous in modern society. 智能手机已经在现代社会中无处不在。           | ubi-(到处)+quit(存在) |
@@ -35,11 +42,9 @@
 | sedentary | adj. | 久坐的；不活动的 | /ˈsedənteri/        | A sedentary lifestyle can lead to various health issues. 久坐的生活方式可能导致各种健康问题。 | sed(坐)+entary(的)→坐着的 |
 | disseminate | v. | 散布；传播 | /dɪˈsemɪneɪt/       | The organization aims to disseminate information about health and wellness. 该组织旨在传播有关健康和福祉的信息。 | dis(分开)+semin(播种)+ate(使)→使信息分开播种 |
 | localize | v. | 本地化；使地方化 | /ˈləʊkəlaɪz/        | The software was localized to meet the needs of different regions. 该软件已本地化以满足不同地区的需求。 | local(地方)+ize(使)→使地方化 |
-| intensity | n. | 强度；强烈 | /ɪnˈtensəti/        | The intensity of the storm caused widespread damage. 风暴的强度造成了广泛的破坏。 | intens(加强)+ity(状态)→加强的状态 |
-| despite | prep. | 尽管；不管 | /dɪˈspaɪt/          | Despite the rain, the event continued as planned. 尽管下雨，活动仍按计划进行。 | de(去掉)+spite(怨恨)→去掉怨恨→不管 |
-| abundant | adj. | 丰富的；充足的 | /əˈbʌndənt/         | The region is known for its abundant natural resources. 该地区以其丰富的自然资源而闻名。 | ab(离开)+und(波浪)+ant(的)→离开波浪的地方→丰富的 |
 
-## 🔬 学科专业词汇
+
+##  学科专业词汇
 | 单词         | 类型       | 中文释义          | 发音（音标）       | 例句+翻译 |记忆技巧|
 |--------------|------------|-------------------|--------------------|------------------|----|
 | generalized  | adj.      | 一般化的          | /ˈdʒenrəlaɪzd/    | Commonly used and **generalized** controllers for ros2_control framework that are ready to use with many robots, MoveIt2 and Nav2. 一般化的控制器被广泛使用，并且已经为许多机器人、MoveIt2和Nav2准备好。|general(一般的)+ized(化)→一般化的 |
