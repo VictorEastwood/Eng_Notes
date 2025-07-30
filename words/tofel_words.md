@@ -1,13 +1,7 @@
-# 📚 雅思英语备考词汇积累
 
-## 阅读高频常用词汇
-| 单词         | 类型       | 中文释义          | 发音（音标）       | 例句+翻译    | 记忆技巧              |
-|--------------|------------|-------------------|--------------------|----------------------------------|-----------------------|
-| intensity | n. | 强度；强烈 | /ɪnˈtensəti/        | The intensity of the storm caused widespread damage. 风暴的强度造成了广泛的破坏。 | intens(加强)+ity(状态)→加强的状态 |
-| despite | prep. | 尽管；不管 | /dɪˈspaɪt/          | Despite the rain, the event continued as planned. 尽管下雨，活动仍按计划进行。 | de(去掉)+spite(怨恨)→去掉怨恨→不管 |
-| abundant | adj. | 丰富的；充足的 | /əˈbʌndənt/         | The region is known for its abundant natural resources. 该地区以其丰富的自然资源而闻名。 | ab(离开)+und(波浪)+ant(的)→离开波浪的地方→丰富的 |
-| provided
-##  乱序托福词汇
+#  百词斩乱序托福词汇
+
+## 2025年7月24日
 | 单词         | 类型       | 中文释义          | 发音（音标）       | 例句+翻译    | 记忆技巧              |
 |--------------|------------|-------------------|--------------------|----------------------------------|-----------------------|
 | ubiquitous   | adj.| 无处不在的   | /juːˈbɪkwɪtəs/    | Smartphones have become ubiquitous in modern society. 智能手机已经在现代社会中无处不在。           | ubi-(到处)+quit(存在) |
@@ -18,6 +12,10 @@
 | pragmatic | adj. | 实用的；务实的 | /præɡˈmætɪk/       | A pragmatic approach to problem-solving often yields the best results. 解决问题的实用方法通常会产生最佳结果。 | pragma(实践)+tic(的)→实践的 |
 | bewilder | v. | 使困惑；使迷惑 | /bɪˈwɪldə(r)/       | The complex instructions bewildered the new employees. 复杂的指令使新员工感到困惑。 | be(被)+wilder(迷惑)→被迷惑 |
 | pathetic | adj. | 可怜的；悲惨的 | /pəˈθetɪk/          | The movie's ending was so pathetic that it left the audience in tears. 电影的结局如此悲惨，以至于让观众泪流满面。 | pathos(悲伤)+tic(的)→悲伤的 |
+
+## 2025年7月25日
+| 单词         | 类型       | 中文释义          | 发音（音标）       | 例句+翻译    | 记忆技巧              |
+|--------------|------------|-------------------|--------------------|----------------------------------|-----------------------|
 | pilgrim | n. | 朝圣者；旅行者 | /ˈpɪlɡrɪm/         | The pilgrims traveled to the holy site to seek spiritual enlightenment. 朝圣者们前往圣地寻求精神启迪。 | pilgrim(朝圣者)→朝圣的旅行者 |
 | phenomenal | adj. | 现象级的；非凡的 | /fəˈnɒmɪnl/         | The athlete's phenomenal performance broke several records. 这位运动员的非凡表现打破了多项记录。 | phenom(现象)+enal(的)→现象级的 |
 | disperse | v. | 分散；散布 | /dɪˈspɜːs/          | The crowd began to disperse after the concert ended. 音乐会结束后，人群开始分散。 | dis(分开)+perse(散布)→分开散布 |
@@ -28,6 +26,10 @@
 | subtract | v. | 减去；扣除 | /səbˈtrækt/         | To find the total cost, you need to subtract the discount from the original price. 要找到总成本，你需要从原价中减去折扣。 | sub(下)+tract(拉)→向下拉→减去 |
 | assure | v. | 确保；保证 | /əˈʃʊə(r)/          | The manager assured the team that their efforts would be recognized. 经理向团队保证他们的努力将得到认可。 | assure(确保)→确保的意思 |
 | vicious | adj. | 邪恶的；恶毒的 | /ˈvɪʃəs/            | The villain in the story had a vicious plan to take over the world. 故事中的恶棍有一个邪恶的计划来统治世界。 | vici(恶)+ous(的)→恶毒的 |
+
+## 2025年7月27日
+| 单词         | 类型       | 中文释义          | 发音（音标）       | 例句+翻译    | 记忆技巧              |
+|--------------|------------|-------------------|--------------------|----------------------------------|-----------------------|
 | tease | v. | 取笑；戏弄 | /tiːz/               | The children would often tease each other during recess. 孩子们在课间经常互相取笑。 | tease(戏弄)→戏弄的意思 |
 | extermination | n. | 消灭；根除 | /ɪkˌstɜːmɪˈneɪʃn/    | The extermination of invasive species is crucial for preserving local ecosystems. 根除入侵物种对保护当地生态系统至关重要。 | ex(出)+terminate(终止)→彻底终止→消灭 |
 | pry | v. | 窥探；打听;撬开 | /praɪ/               | She tried to pry into his personal life, but he remained secretive. 她试图窥探他的私生活，但他保持神秘。 | pry(撬开)→撬开秘密 |
@@ -43,24 +45,27 @@
 | disseminate | v. | 散布；传播 | /dɪˈsemɪneɪt/       | The organization aims to disseminate information about health and wellness. 该组织旨在传播有关健康和福祉的信息。 | dis(分开)+semin(播种)+ate(使)→使信息分开播种 |
 | localize | v. | 本地化；使地方化 | /ˈləʊkəlaɪz/        | The software was localized to meet the needs of different regions. 该软件已本地化以满足不同地区的需求。 | local(地方)+ize(使)→使地方化 |
 
-
-##  学科专业词汇
-| 单词         | 类型       | 中文释义          | 发音（音标）       | 例句+翻译 |记忆技巧|
-|--------------|------------|-------------------|--------------------|------------------|----|
-| generalized  | adj.      | 一般化的          | /ˈdʒenrəlaɪzd/    | Commonly used and **generalized** controllers for ros2_control framework that are ready to use with many robots, MoveIt2 and Nav2. 一般化的控制器被广泛使用，并且已经为许多机器人、MoveIt2和Nav2准备好。|general(一般的)+ized(化)→一般化的 |
-| overview      | n.        | 概述              | /ˈəʊvəvjuː/       | The report provides an **overview** of the current state of research in the field. 这个报告提供了该领域研究现状的**概述**。| over(在上)+view(看)→从上往下看→概述 |
-| concepts      | n.        | 概念              | /ˈkɒnsepts/       | Understanding the **concepts** of physics is essential for engineering students.  理解物理学的**概念**对工程专业的学生至关重要。| con(共同)+cept(拿)→共同拿到的知识→概念 |
-| alternatively  | adv.      | 另外；可选择地    | /ɔːlˈtɜːnətɪvli/  | You can use a calculator; **alternatively**, you can do the math by hand. 你可以使用计算器；**另外**，你可以手动计算。| alter(改变)+native(本地的)→改变选择→另外 |
-| inherit      | v.        | 继承              | /ɪnˈherɪt/        | She will **inherit** her father's estate after his passing.  她将在父亲去世后**继承**他的遗产。| in(在内)+herit(继承)→在内的继承 |
-| thread       | n.        | 线程            | /θred/            | The program runs multiple **threads** to improve performance. 该程序运行多个**线程**以提高性能。| thread(线)→多条线并行运行 |
-| derived      | adj.       | 派生的；衍生的    | /dɪˈraɪvd/        | The **derived** data was used to make further predictions.  **派生**数据被用来做进一步的预测。| derive(派生)→从某物中得到 |
-| demangled  | adj.       | 解码的；去除修饰的 | /diːˈmæŋɡld/      | The example prints demangled type names of a few objects and functions. 该示例打印了一些对象和函数的解码类型名称。| de(去掉)+mangle(损坏)→去掉损坏的名称 |
-
-
-
-
-
-1. **记忆技巧**：
-   - 词根词缀法：`bene-`(好)→benefit
-   - 联想记忆：`ambitious`(野心勃勃)→谐音"俺必胜"
-   - 视觉化：`meander`(蜿蜒)→画河流曲线
+## 2025年7月29日
+| 单词         | 类型       | 中文释义          | 发音（音标）       | 例句+翻译    | 记忆技巧              |
+|--------------|------------|-------------------|--------------------|----------------------------------|-----------------------|
+| concur | v. | 同意；一致 | /kənˈkɜːr/          | The committee members concurred with the proposed changes. 委员会成员一致同意所提议的变更。 | con(共同)+cur(跑)+re(再次)→共同跑到一起→同意 |
+| grandiose | adj. | 宏伟的；壮丽的 | /ˈɡrændiəs/         | The palace was known for its grandiose architecture and opulent interiors. 这座宫殿以其宏伟的建筑和奢华的内部装饰而闻名。 | grand(宏伟)+iose(的)→宏伟的 |
+| statistic | n. | 统计数据 | /stəˈtɪstɪk/        | The report includes various statistics on population growth. 报告中包含了有关人口增长的各种统计数据。 | stat(状态)+istic(的)→状态的描述→统计数据 |
+| revere | v. | 尊敬；崇敬 | /rɪˈvɪə(r)/        | Many people revere the contributions of scientists to society. 许多人尊敬科学家对社会的贡献。 | re(再次)+vere(真理)→再次追求真理→尊敬 |
+| incubation | n. | 孵化；培养 | /ˌɪŋkjʊˈbeɪʃn/      | The incubation period for the virus is typically around two weeks. 该病毒的孵化期通常约为两周。 | incubate(孵化)+ion(过程)→孵化的过程 |
+| penetrate | v. | 渗透；穿透 | /ˈpenətreɪt/       | The roots of the tree penetrate deep into the soil. 树的根深入土壤。 | pen(穿)+etrate(进入)→穿透进入 |
+| homestead | n. | 家园；农场 | /ˈhoʊmsted/         | The family lived on a homestead in the countryside, growing their own food. 这个家庭住在乡村的家园里，自己种植食物。 | home(家)+stead(地方)→家的地方 |
+| glaciation | n. | 冰川作用；冰川期 | /ˌɡleɪsiˈeɪʃn/      | The glaciation of the region shaped its current landscape. 该地区的冰川作用塑造了其当前的地貌。 | glacier(冰川)+ation(过程)→冰川的过程 |
+| grandiose | adj. | 宏伟的；壮丽的 | /ˈɡrændiəs/         | The grandiose plans for the new city center were met with enthusiasm. 新市中心的宏伟计划受到了热烈欢迎。 | grand(宏伟)+iose(的)→宏伟的 |
+| combustion | n. | 燃烧； combustion | /kəmˈbʌstʃən/       | The combustion of fossil fuels contributes to air pollution. 化石燃料的燃烧会导致空气污染。 | combust(燃烧)+ion(过程)→燃烧的过程 |
+|aesthetics | n. | 美学；审美 | /iːsˈθetɪks/        | The aesthetics of the painting captivated the audience. 这幅画的美学吸引了观众。 | aesthet(感知)+ics(学科)→感知的学科→美学 |
+| descendant | n. | 后代；子孙 | /dɪˈsendənt/       | She is a descendant of a famous historical figure. 她是一个著名历史人物的后代。 | descend(下降)+ant(人)→下降的人→后代 |
+|stylistic | adj. | 风格的；文体的 | /stəˈlɪstɪk/        | The novel is known for its unique stylistic features. 这部小说以其独特的文体特征而闻名。 | style(风格)+istic(的)→风格的 |
+|democrat | n. | 民主党人；民主主义者 | /ˈdeməkræt/         | The democrat advocated for policies that promote social equality. 这位民主党人倡导促进社会平等的政策。 | demo(人民)+crat(统治者)→人民的统治者→民主主义者 |
+| convention | n. | 会议；惯例 | /kənˈvenʃn/         | The annual convention brought together experts from various fields. 年度会议汇集了各个领域的专家。 | convene(召集)+tion(过程)→召集的过程→会议 |
+| contour | n. | 轮廓；外形 | /ˈkɒntʊər/          | The artist captured the contour of the landscape beautifully. 艺术家美妙地捕捉了风景的轮廓。 | con(共同)+tour(形状)→共同的形状→轮廓 |
+| nomatic | adj. | 游牧的；流动的 | /nəʊˈmætɪk/         | The nomadic tribes moved across the plains in search of grazing land. 游牧部落在平原上移动，寻找牧场。 | nomad(游牧人)+ic(的)→游牧的 |
+| plankton | n. | 浮游生物 | /ˈplæŋktən/         | Plankton forms the base of the marine food chain. 浮游生物是海洋食物链的基础。 | plank(木板)+ton(小)→小的木板→浮游生物 |
+| concur | v. | 同意；一致 | /kənˈkɜːr/          | The committee members concurred with the proposed changes. 委员会成员一致同意所提议的变更。 | con(共同)+cur(跑)+re(再次)→共同跑到一起→同意 |
+|caste | n. | 种姓；社会等级 | /kɑːst/             | In some cultures, the caste system determines social status and occupation. 在某些文化中，种姓制度决定了社会地位和职业。 | cast(投掷)+e(的)→投掷的等级→种姓 |
+|canopy | n. | 天篷；树冠 | /ˈkænəpi/           | The dense canopy of the rainforest provides shelter for many species. 雨林的密集树冠为许多物种提供了庇护。 | can(容器)+opy(覆盖)→覆盖的容器→天篷 |
