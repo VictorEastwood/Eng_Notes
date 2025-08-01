@@ -9,3 +9,5 @@
 | provided | conj. | 只要；如果 | /prəˈvaɪdɪd/        | You can borrow my book provided you return it by Friday. 只要你在星期五之前归还，我就可以借给你我的书。 | provide(提供)→提供条件 |
 | density | n. | 密度；稠密 | /ˈdɛnsəti/          | The density of the material affects its strength and durability. 材料的密度影响其强度和耐用性。 | dense(稠密)+ity(状态)→稠密的状态 |
 | concur | v. | 同意；一致 | /kənˈkɜːr/          | The committee members concurred with the proposed changes. 委员会成员一致同意所提议的变更。 | con(共同)+cur(跑)+re(再次)→共同跑到一起→同意 |
+| factual | adj. | 事实的；实际的 | /ˈfæktʃuəl/         | The report is based on factual information rather than opinions. 该报告基于事实信息而非意见。 | fact(事实)+ual(的)→事实的 |
+| properties | 
